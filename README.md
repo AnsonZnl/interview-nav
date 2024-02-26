@@ -1,16 +1,10 @@
 ## 面试导航
 
-你是不是也遇到过以下下问题
+想换工作你是不是也遇到过以下下问题
 
-换工作就发愁？
-
-想跳槽了，简历不会写？
-
-面试题不会咋办？
-
-收集了很多面试题网站，鼓起很大的勇气想看一会题，然后一打开发现网站挂掉了？
-
-或者打开后发现里面的题库是三四年前的老掉牙的问题，现在面试官都不问，新题哪里去找呢？
+- 想跳槽了，简历不会写？面试题不会咋办？
+- 收集了很多面试题网站，鼓起很大的勇气想看一会题，然后一打开发现网站挂掉了？
+- 或者打开后发现里面的题库是三四年前的老掉牙的问题，现在面试官都不问，新题哪里去找呢？
 
 来这里 [interview-nav](https://github.com/AnsonZnl/interview-nav)，找到最新最全的面试刷题网站！
 
@@ -76,11 +70,45 @@
 
 ### Python
 
+- [interview_python](https://github.com/taizilongxu/interview_python) 关于 Python 的面试题
+- [Python-Offer](https://github.com/JushuangQiao/Python-Offer)《剑指 Offer》面试题 Python 实现
+- [Python 常考题](https://github.com/yongxinz/backend-interview/tree/master/Python)
+
 资源收集中..
 
 ### Golang
 
+- [Go 面试题](https://github.com/yongxinz/backend-interview/tree/master/Go)
+
 资源收集中..
+
+### PHP
+
+资源收集中..
+
+### NodeJS
+
+资源收集中..
+
+### C/C++
+
+资源收集中..
+
+### 安卓
+
+资源收集中..
+
+### iOS
+
+资源收集中..
+
+### 架构师
+
+资源收集中..
+
+## 软技能
+
+- [如何向面试官提问？](https://github.com/yongxinz/InterviewThis)
 
 ## 算法刷题网站
 
