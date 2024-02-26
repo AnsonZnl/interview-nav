@@ -74,6 +74,14 @@
 - [Java-Interview](https://github.com/xbox1994/Java-Interview) 经历 BAT 面试后总结的【高级 Java 后台开发面试指南】，纯净干货无废话，针对高频面试点
 - [Java 八股文](https://github.com/CoderLeixiaoshuai/java-eight-part)『Java 八股文』Java 面试套路，Java 进阶学习，打破内卷拿大厂 Offer，升职加薪
 
+### Python
+
+资源收集中..
+
+### Golang
+
+资源收集中..
+
 ## 算法刷题网站
 
 这这些网站的算法如果都刷完了，妥妥大厂收割机了～
