@@ -1,9 +1,15 @@
 ## 面试导航
 
-你是不是一到换工作就发愁？
+你是不是也遇到过以下下问题
+
+换工作就发愁？
+
 想跳槽了，简历不会写？
+
 面试题不会咋办？
+
 收集了很多面试题网站，鼓起很大的勇气想看一会题，然后一打开发现网站挂掉了？
+
 或者打开后发现里面的题库是三四年前的老掉牙的问题，现在面试官都不问，新题哪里去找呢？
 
 来这里 [interview-nav](https://github.com/AnsonZnl/interview-nav)，找到最新最全的面试刷题网站！
@@ -29,7 +35,7 @@
 
 - [教你如何写初/高级前端简历](https://zhuanlan.zhihu.com/p/141170598)：知乎高赞
 - [如何写一份有效的技术简历？](http://www.ruanyifeng.com/blog/2020/01/technical-resume.html)：来自阮一峰的博客
-- [程序员简历模板系列](https://github.com/geekcompany/ResumeSample)：包括 PHP 程序员简历模板、iOS 程序员简历模板、Android 程序员简历模板、Web 前端程序员简历模板、Java 程序员简历模板、C/C++程序员简历模板、NodeJS 程序员简历模板、架构师简历模板以及通用程序员简历模板
+- [程序员简历模板系列](https://github.com/geekcompany/ResumeSample)：包括 PHP 、iOS 、Android 、Web 前端、Java 、C/C++、NodeJS 、架构师简历模板以及通用程序员简历模板
 
 ## 简历模版
 
@@ -62,10 +68,10 @@
 我这边对 Java 的面试资料网站收集不多，有资源的朋友可以提交 PR，一起来维护这个仓库。
 
 - [JavaGuide](https://javaguide.cn/) 「Java 学习 + 面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
-- [Java interview][https://github.com/hadyang/interview]：Java 笔试、面试 知识整理
-- [learning-note](https://github.com/rbmonster/learning-note): Java 开发及面试（个人面试、工作总结、资料收集站）
-- [【Java 面试+Java 学习指南】](https://github.com/AobingJava/JavaFamily): 一份涵盖大部分 Java 程序员所需要掌握的核心知识。
-- [Java-Interview](https://github.com/xbox1994/Java-Interview): 经历 BAT 面试后总结的【高级 Java 后台开发面试指南】，纯净干货无废话，针对高频面试点
+- [Java interview](https://github.com/hadyang/interview) Java 笔试、面试 知识整理
+- [learning-note](https://github.com/rbmonster/learning-note) Java 开发及面试（个人面试、工作总结、资料收集站）
+- [【Java 面试+Java 学习指南】](https://github.com/AobingJava/JavaFamily) 一份涵盖大部分 Java 程序员所需要掌握的核心知识。
+- [Java-Interview](https://github.com/xbox1994/Java-Interview) 经历 BAT 面试后总结的【高级 Java 后台开发面试指南】，纯净干货无废话，针对高频面试点
 - [Java 八股文](https://github.com/CoderLeixiaoshuai/java-eight-part)『Java 八股文』Java 面试套路，Java 进阶学习，打破内卷拿大厂 Offer，升职加薪
 
 ## 算法刷题网站
@@ -82,4 +88,4 @@
 
 ## 声明
 
-**本仓库引用了一些网络资源，如有侵权，请联系我删除。**
+本仓库引用了一些网络资源，如有侵权，请联系我删除。
