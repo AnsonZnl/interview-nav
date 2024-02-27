@@ -88,23 +88,32 @@
 - [PHP 面试问答](https://github.com/colinlet/PHP-Interview-QA)
 - [PHP 面试宝典题库](https://www.kancloud.cn/daniu945/php/408802)
 
-  资源收集中..
+资源收集中..
 
 ### NodeJS
 
 - [前端面试：Nodejs 面试题「2023」](https://juejin.cn/post/7236325900719783995)
 
-  资源收集中..
+资源收集中..
 
 ### C/C++
 
-资源收集中..
+- [C++面试&C++学习指南](https://github.com/youngyangyang04/TechCPP)
+  资源收集中..
+
+### C#/.NET
+
+- [C#/.NET/.NET Core 学习、工作、面试指南](https://github.com/YSGStudyHards/DotNetGuide)
 
 ### 安卓
 
-资源收集中..
+- [Android-Advanced-Interview](https://github.com/jinguangyue/Android-Advanced-Interview) 只针对 Android 高级开发整理的面试题以及答案
+- [史上最好的 Android 面试题库](https://github.com/ddnosh/BestReview)
+  资源收集中..
 
 ### iOS
+
+- [iOS-Interview](https://ios.nobady.cn)iOS 面试题整理，在线查看地址：
 
 资源收集中..
 
