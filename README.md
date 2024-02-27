@@ -79,16 +79,22 @@
 ### Golang
 
 - [Go 面试题](https://github.com/yongxinz/backend-interview/tree/master/Go)
+- [Golang 面试题搜集](https://github.com/lifei6671/interview-go)
 
-资源收集中..
+  资源收集中..
 
 ### PHP
 
-资源收集中..
+- [PHP 面试问答](https://github.com/colinlet/PHP-Interview-QA)
+- [PHP 面试宝典题库](https://www.kancloud.cn/daniu945/php/408802)
+
+  资源收集中..
 
 ### NodeJS
 
-资源收集中..
+- [前端面试：Nodejs 面试题「2023」](https://juejin.cn/post/7236325900719783995)
+
+  资源收集中..
 
 ### C/C++
 
