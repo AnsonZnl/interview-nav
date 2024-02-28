@@ -73,6 +73,7 @@
 - [interview_python](https://github.com/taizilongxu/interview_python) 关于 Python 的面试题
 - [Python-Offer](https://github.com/JushuangQiao/Python-Offer)《剑指 Offer》面试题 Python 实现
 - [Python 常考题](https://github.com/yongxinz/backend-interview/tree/master/Python)
+- [编写优雅高效的 Python 代码](https://github.com/piglei/one-python-craftsman)《Python 工匠》
 
 资源收集中..
 
