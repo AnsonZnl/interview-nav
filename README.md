@@ -43,7 +43,7 @@
 
 ### 前端
 
-因为本人也是前端，所以资料以前端面试资料为主。
+因为本人是前端岗位，所以前端面试资料我收集的比较多～
 
 这些年也收集远远不止这些，有些网站关停了，有些网站题太老，这些被我挑出来的都是比较优质的资料。
 
@@ -61,19 +61,19 @@
 
 我这边对 Java 的面试资料网站收集不多，有资源的朋友可以提交 PR，一起来维护这个仓库。
 
-- [JavaGuide](https://javaguide.cn/) 「Java 学习 + 面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
-- [Java interview](https://github.com/hadyang/interview) Java 笔试、面试 知识整理
-- [learning-note](https://github.com/rbmonster/learning-note) Java 开发及面试（个人面试、工作总结、资料收集站）
-- [【Java 面试+Java 学习指南】](https://github.com/AobingJava/JavaFamily) 一份涵盖大部分 Java 程序员所需要掌握的核心知识。
-- [Java-Interview](https://github.com/xbox1994/Java-Interview) 经历 BAT 面试后总结的【高级 Java 后台开发面试指南】，纯净干货无废话，针对高频面试点
-- [Java 八股文](https://github.com/CoderLeixiaoshuai/java-eight-part)『Java 八股文』Java 面试套路，Java 进阶学习，打破内卷拿大厂 Offer，升职加薪
+- [JavaGuide](https://javaguide.cn/) ：「Java 学习 + 面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+- [Java interview](https://github.com/hadyang/interview) ：Java 笔试、面试 知识整理
+- [learning-note](https://github.com/rbmonster/learning-note) ：Java 开发及面试（个人面试、工作总结、资料收集站）
+- [【Java 面试+Java 学习指南】](https://github.com/AobingJava/JavaFamily) ：一份涵盖大部分 Java 程序员所需要掌握的核心知识。
+- [Java-Interview](https://github.com/xbox1994/Java-Interview) ：经历 BAT 面试后总结的【高级 Java 后台开发面试指南】，纯净干货无废话，针对高频面试点
+- [Java 八股文](https://github.com/CoderLeixiaoshuai/java-eight-part)：『Java 八股文』Java 面试套路，Java 进阶学习，打破内卷拿大厂 Offer，升职加薪
 
 ### Python
 
-- [interview_python](https://github.com/taizilongxu/interview_python) 关于 Python 的面试题
-- [Python-Offer](https://github.com/JushuangQiao/Python-Offer)《剑指 Offer》面试题 Python 实现
+- [interview_python](https://github.com/taizilongxu/interview_python) ：关于 Python 的面试题
+- [Python-Offer](https://github.com/JushuangQiao/Python-Offer)：《剑指 Offer》面试题 Python 实现
 - [Python 常考题](https://github.com/yongxinz/backend-interview/tree/master/Python)
-- [编写优雅高效的 Python 代码](https://github.com/piglei/one-python-craftsman)《Python 工匠》
+- [编写优雅高效的 Python 代码](https://github.com/piglei/one-python-craftsman)：《Python 工匠》
 
 资源收集中..
 
@@ -82,7 +82,7 @@
 - [Go 面试题](https://github.com/yongxinz/backend-interview/tree/master/Go)
 - [Golang 面试题搜集](https://github.com/lifei6671/interview-go)
 
-  资源收集中..
+资源收集中..
 
 ### PHP
 
@@ -94,12 +94,15 @@
 ### NodeJS
 
 - [前端面试：Nodejs 面试题「2023」](https://juejin.cn/post/7236325900719783995)
+- [2023 最新 NodeJs 面试题,包含答案。刷题必备！记录一下。](https://juejin.cn/post/7309158181841829938)
+- [《大前端进阶 Node.js》系列 必知必会必问（面试高频）](https://juejin.cn/post/6844904093475930125?searchId=202402281125248033287F6E9FA5505DDB)
 
 资源收集中..
 
 ### C / C++
 
 - [C++面试&C++学习指南](https://github.com/youngyangyang04/TechCPP)
+- [c++ 常用面试题整理(不定时更新)](https://www.nowcoder.com/discuss/454697528508870656)
 
 资源收集中..
 
@@ -108,18 +111,18 @@
 - [C#/.NET/.NET Core 学习、工作、面试指南](https://github.com/YSGStudyHards/DotNetGuide)
 - [C# 文档](https://learn.microsoft.com/zh-cn/dotnet/csharp/)
 
-  资源收集中..
+资源收集中..
 
 ### 安卓
 
-- [Android-Advanced-Interview](https://github.com/jinguangyue/Android-Advanced-Interview) 只针对 Android 高级开发整理的面试题以及答案
+- [Android-Advanced-Interview](https://github.com/jinguangyue/Android-Advanced-Interview)： 只针对 Android 高级开发整理的面试题以及答案
 - [史上最好的 Android 面试题库](https://github.com/ddnosh/BestReview)
 
 资源收集中..
 
 ### iOS
 
-- [iOS-Interview](https://ios.nobady.cn)iOS 面试题整理
+- [iOS-Interview](https://ios.nobady.cn)：iOS 面试题整理
 
 资源收集中..
 
