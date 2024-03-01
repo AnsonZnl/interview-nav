@@ -75,21 +75,15 @@
 - [Python 常考题](https://github.com/yongxinz/backend-interview/tree/master/Python)
 - [编写优雅高效的 Python 代码](https://github.com/piglei/one-python-craftsman)：《Python 工匠》
 
-资源收集中..
-
 ### Golang
 
 - [Go 面试题](https://github.com/yongxinz/backend-interview/tree/master/Go)
 - [Golang 面试题搜集](https://github.com/lifei6671/interview-go)
 
-资源收集中..
-
 ### PHP
 
 - [PHP 面试问答](https://github.com/colinlet/PHP-Interview-QA)
 - [PHP 面试宝典题库](https://www.kancloud.cn/daniu945/php/408802)
-
-资源收集中..
 
 ### NodeJS
 
@@ -97,44 +91,37 @@
 - [2023 最新 NodeJs 面试题,包含答案。刷题必备！记录一下。](https://juejin.cn/post/7309158181841829938)
 - [《大前端进阶 Node.js》系列 必知必会必问（面试高频）](https://juejin.cn/post/6844904093475930125?searchId=202402281125248033287F6E9FA5505DDB)
 
-资源收集中..
-
 ### C / C++
 
 - [C++面试&C++学习指南](https://github.com/youngyangyang04/TechCPP)
 - [c++ 常用面试题整理(不定时更新)](https://www.nowcoder.com/discuss/454697528508870656)
-
-资源收集中..
 
 ### C# / .NET
 
 - [C#/.NET/.NET Core 学习、工作、面试指南](https://github.com/YSGStudyHards/DotNetGuide)
 - [C# 文档](https://learn.microsoft.com/zh-cn/dotnet/csharp/)
 
-资源收集中..
-
 ### 安卓
 
 - [Android-Advanced-Interview](https://github.com/jinguangyue/Android-Advanced-Interview)： 只针对 Android 高级开发整理的面试题以及答案
 - [史上最好的 Android 面试题库](https://github.com/ddnosh/BestReview)
 
-资源收集中..
-
 ### iOS
 
 - [iOS-Interview](https://ios.nobady.cn)：iOS 面试题整理
-
-资源收集中..
+- [Over 150 iOS interview questions【英文】](https://www.hackingwithswift.com/interview-questions)
+- [iOS Interview Questions【英文】](https://www.interviewbit.com/ios-interview-questions/)
 
 ### 架构师 / CTO
 
-这块资源比较少，对这块有兴趣的可以看看这个帖子
+这块资源比较少，有架构师、CTO 的大佬欢迎补全～
 
 - [怎么样从后端工程师迈入架构师的门槛，成为一名架构师？求指导方向](https://www.v2ex.com/t/956362)
 
 ## 软技能
 
 - [如何向面试官提问？](https://github.com/yongxinz/InterviewThis)
+- [作为面试官，我建议你需要准备这些](https://juejin.cn/post/7262588535340744759?searchId=2024030114290064AAE889EFA99B664033#heading-1)
 
 ## 算法刷题网站
 
@@ -142,11 +129,11 @@
 
 - [labuladong 的算法笔记](https://labuladong.gitee.io/algo/)
 - [用动画的形式呈现解 LeetCode 题目的思路](https://github.com/MisterBooo/LeetCodeAnimation)
-- [算法通过之路](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/)
+- [算法通关之路](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/)
 
 ## 贡献
 
-欢迎提交 issue 和 PR，共同完善这个仓库。
+一个人的能力和范围有限，很多岗位的资料确实收集的不是那么全面，欢迎提交 issue 和 PR，共同完善这个仓库。
 
 ## 声明
 
