@@ -38,6 +38,7 @@
 - [木及简历](https://www.mujicv.com/home/)
 - [冷熊简历](http://cv.ftqq.com/)
 - [一页简历](https://cv.devtool.tech/app)
+- [优雅简历](https://www.elegantresume.pro/)
 
 ## 面试刷题网站
 
