@@ -80,6 +80,7 @@
 
 - [Go 面试题](https://github.com/yongxinz/backend-interview/tree/master/Go)
 - [Golang 面试题搜集](https://github.com/lifei6671/interview-go)
+- [Golang 面试小抄](https://github.com/mao888/golang-guide?tab=readme-ov-file#-golang)
 
 ### PHP
 
@@ -123,6 +124,7 @@
 
 - [如何向面试官提问？](https://github.com/yongxinz/InterviewThis)
 - [作为面试官，我建议你需要准备这些](https://juejin.cn/post/7262588535340744759?searchId=2024030114290064AAE889EFA99B664033#heading-1)
+- [面试沟通技巧](https://www.besthub.tech/archives/1709272424063)
 
 ## 算法刷题网站
 
