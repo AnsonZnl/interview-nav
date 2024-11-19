@@ -55,8 +55,8 @@
 - [木易杨前端进阶](https://muyiy.cn/question/)
 - [每天五分钟，半年大厂中。](https://q.shanyue.tech/)
 - [前端面试题总汇](https://www.yuque.com/cuggz/interview)
-- 前端面试题宝典：微信小程序搜索
-- 程序员工具前端面试题：微信小程序搜索
+- #小程序：前端面试题宝典
+
 
 ### Java
 
